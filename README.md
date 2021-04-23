@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Hanno, a software engineer / data scientist with a background in physics (PhD from HU Berlin). I love the open-source culture for unlimited ways of learning new technologies and giving something back. That is why I am here. In my 
+I am Hanno, a software engineer / data scientist with a background in physics (PhD from HU Berlin). I love the open-source culture for unlimited ways of learning new technologies and giving something back. That is why I am here.
 
 - 🔭 I’m currently working on a web app around image detection, animal sounds and pet names.
 - 🌱 I’m currently learning FastAPI with @mikeckennedy and reading Fluent Python by @ramalho.
